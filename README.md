@@ -4,7 +4,7 @@
 
 ⚡ Fun fact: I'm veeeeeeeeeeeeeeeeery lazy, hehe <3
 
-# Love ya. Have a good day! <3
+#### Love ya. Have a good day! <3
 <!--
 **TinLite/TinLite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
