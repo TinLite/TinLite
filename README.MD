@@ -20,26 +20,32 @@ Although I'm actively learning Software Engineering at school, most of the stuff
 
 #### What I'm confident at*
 
+<div>
 <img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/java.svg" width="32px" height="32px"/>
 <img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/python.svg" width="32px" height="32px"/>
 <img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/git-icon.svg" width="32px" height="32px"/>
+</div>
 
 #### What I've known but I don't think I'm that good or decent at*
 
+<div>
 <img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/html-5.svg" width="32px" height="32px"/>
 <img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/javascript.svg" width="32px" height="32px"/>
 <img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/c-sharp.svg" width="32px" height="32px"/>
 <img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/ffmpeg-icon.svg" width="32px" height="32px"/>
 <img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/autoit.svg" width="32px" height="32px"/>
+</div>
 
 #### What I'm learning at the moment
 
 > I wish I have more time to learn these
 
+<div>
 <img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/c-plusplus.svg" width="32px" height="32px"/>
 <img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/unity.svg" width="32px" height="32px"/>
 <img alt="Spring" src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/spring.svg" width="32px" height="32px"/>
 <img alt="RabbitMQ" src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/rabbitmq.svg" width="32px" height="32px"/>
+</div>
 
 ### ⚒️ Projects
 
