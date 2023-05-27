@@ -45,6 +45,9 @@ Although I'm actively learning Software Engineering at school, most of the stuff
 <img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/unity.svg" width="32px" height="32px"/>
 <img alt="Spring" src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/spring.svg" width="32px" height="32px"/>
 <img alt="RabbitMQ" src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/rabbitmq.svg" width="32px" height="32px"/>
+<img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/nginx-icon.svg" width="32px" height="32px"/>
+<img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/mongodb-icon.svg" width="32px" height="32px"/>
+<img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/php-alt.svg" width="32px" height="32px"/>
 </div>
 
 ### ⚒️ Projects
@@ -59,8 +62,6 @@ I'm also available on Discord [Vinh#7062](http://discord.com/users/2846514481201
 And you can send me an email via `vinh@3fmc.com`.
 
 Have a nice day! 
-
-<sub><sup>*Build tools, IDE, external frameworks and packages are not listed here as It's pretty common for programmers to know these stuff (Like, most Java programmers already know about Gradle) and It would make the list long, overwhelming and boring to look at.<sup><sub>
 
 <!-- <center>![VinhGaming's GitHub stats](https://github-readme-stats.vercel.app/api?username=TinLite&count_private=true&show_icons=true&theme=github_dark)</center> -->
 <!--
