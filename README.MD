@@ -58,7 +58,7 @@ Currently, I'm working for [a Vietnamese Minecraft server named 3FMC Network](ht
 ### 📫 The "I want to send you a message" part
 
 You can reach me at [Facebook](https://fb.com/100036603073980).  
-I'm also available on Discord [Vinh#7062](http://discord.com/users/284651448120115201).  
+I'm also available on Discord [@tinlite](http://discord.com/users/284651448120115201).  
 And you can send me an email via `vinh@3fmc.com`.
 
 Have a nice day! 
