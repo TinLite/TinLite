@@ -14,6 +14,8 @@ Oh, hello there 👋
 
 My name is Vinh. I'm a university student majoring in Software Engineering.
 
+And I wasted 10 years playing a certain block game. Continuously.
+
 Although I'm actively learning Software Engineering at school, most of the stuff I made came from my self-taught programming knowledge. So, my coding style right now is a little bit messy. If you have any questions regarding projects I was working on, or maybe you just know how to improve some part of the codebase, don't heritage to send me a DM, PR, anything.  
 
 ### ⚙️ Tech stack
