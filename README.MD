@@ -12,7 +12,7 @@
 
 Oh, hello there 👋
 
-My name is Vinh. (Yes I self-d0xxed by using my actual name on most of the places) I'm a university student majoring in Software Engineering.  
+My name is Vinh. I'm a final year university student majoring in Software Engineering.  
 Currently working for [a Vietnamese Minecraft server named 3FMC Network](https://3fmc.com/).  
 
 ### 📫 The "I want to send you a message" part
